@@ -1,2 +1,2 @@
 # CRUD.FLOWSTOCK
-trabalho do Cesar School 
+trabalho do Cesar School. CRUD PARA GESTÃO DE ESTOQUE DE BEBIDAS 
