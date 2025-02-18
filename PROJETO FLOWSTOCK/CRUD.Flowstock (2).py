@@ -9,7 +9,7 @@ class cor:
     AZUL = '\033[94m'
     MAGENTA = '\033[95m'
     CIANO = '\033[96m'
-    RESET = '\033[0m'
+    RESET = '\033[0m']
 
 
 arquivo_cliente = os.path.join(os.path.dirname(__file__), 'cliente2.json')
